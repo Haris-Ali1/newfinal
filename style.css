@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.haeeli{
+    background: linear-gradient(blue, purple);
+    padding: 12px 34px;
+    color: #fff;
+cursor: pointer;
+
+    border-radius: 14px;
+    border: 0;
+    outline: 0;
+    transition: 1s;
+}
+.haeeli:hover{
+background: linear-gradient(pink, black);
+transition: 2s;
+
+}
